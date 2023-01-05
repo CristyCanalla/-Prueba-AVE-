@@ -1,10 +1,11 @@
 # -Prueba-AVE-
-
-
 Install the dependencies
 yarn
-# or
+or
 npm install
+
+
+
 
 In the project directory, you can run:
 
